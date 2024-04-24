@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "adonisjs.misc.nodePath": "/Users/tqvthu/.nvm/versions/node/v20.12.2/bin/node",
+  },
+}
